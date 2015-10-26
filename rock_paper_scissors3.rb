@@ -1,4 +1,4 @@
-puts "Welcome to Rock Paper Scissors for Windows"
+puts 'Welcome to Rock Paper Scissors for Windows'
 sleep (1)
 puts "A strategic game for NERDS!"
 sleep (1)
@@ -85,7 +85,7 @@ sleep(1)
    puts "#{name}"
    name_score += 1
    puts
-   
+
  puts "The Score is #{pc_name} #{pc_score} , #{name} #{name_score}"
 
  puts "would you like to play again? (Yes or No)"
